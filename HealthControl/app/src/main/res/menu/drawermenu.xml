@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/perfil" android:title="Perfil" android:icon="@drawable/ic_person_black_24dp"/>
+    <item android:id="@+id/emergencia" android:title="Emergência" android:icon="@drawable/ic_action_emergencia"/>
+    <item android:id="@+id/device" android:title="Dispositivo" android:icon="@drawable/ic_action_device"/>
+    <item android:id="@+id/familiares" android:title="Familiares" android:icon="@drawable/ic_action_familiares"/>
+    <item android:id="@+id/premium" android:title="Premium" android:icon="@drawable/ic_action_premium"/>
+    <item android:id="@+id/config" android:title="Configurações" android:icon="@drawable/ic_action_config"/>
+    <item android:id="@+id/logout" android:title="Sair"/>
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HealthControl</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <array name="generos">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </array>
+</resources>
